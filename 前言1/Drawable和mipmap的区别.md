@@ -1,4 +1,4 @@
-# Drawable和mipmap的区别.md  
+# Drawable和mipmap的区别 
 
 # 总结
 
