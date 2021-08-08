@@ -61,7 +61,7 @@
 | FrameLayout      帧——     | ![image-20210730200301306](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210730200301306.png) | ![image-20210730200429425](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210730200429425.png) |
 | TableLayout        表格—— | ![image-20210731132059859](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731132059859.png)![image-20210730201304239](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210730201304239.png) |                                                              |
 | AbsoluteLayout   网格——   |                                                              |                                                              |
-| GridLayout                | ![image-20210731211909517](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731211909517.png)![image-20210731132025054](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731132025054.png) | ![image-20210731132549689](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731132549689.png)![image-20210731132219730](C:\Users\59501\AppData\Roaming\Typora\typora-user-images\image-20210731132219730.png) |
+| GridLayout                | ![image-20210731211909517](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731211909517.png)![image-20210731132025054](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731132025054.png) | ![image-20210731132549689](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210731132549689.png)![image-20210808160200534](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210808160200534.png) |
 
 ## 3.布局管理器嵌套
 
