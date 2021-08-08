@@ -1,4 +1,4 @@
 # 总结
 
-![image-20210728195742408](C:\Users\59501\AppData\Roaming\Typora\typora-user-images\image-20210728195742408.png)
+![image-20210808165007251](https://cdn.jsdelivr.net/gh/FocusOn1/myImg/imgimage-20210808165007251.png)
 
